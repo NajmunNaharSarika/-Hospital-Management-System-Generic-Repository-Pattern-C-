@@ -1,0 +1,7 @@
+G:\IDB\c#\WADA-1293992\CsProject\bin\Debug\CsProject.exe.config
+G:\IDB\c#\WADA-1293992\CsProject\bin\Debug\CsProject.exe
+G:\IDB\c#\WADA-1293992\CsProject\bin\Debug\CsProject.pdb
+G:\IDB\c#\WADA-1293992\CsProject\obj\Debug\CsProject.csproj.AssemblyReference.cache
+G:\IDB\c#\WADA-1293992\CsProject\obj\Debug\CsProject.csproj.CoreCompileInputs.cache
+G:\IDB\c#\WADA-1293992\CsProject\obj\Debug\CsProject.exe
+G:\IDB\c#\WADA-1293992\CsProject\obj\Debug\CsProject.pdb
